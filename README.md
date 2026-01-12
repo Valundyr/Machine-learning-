@@ -39,7 +39,7 @@ The CNN proved to be the superior model for this task, achieving higher accuracy
 | Metric | CNN (Deep Learning) | Random Forest (Classic) |
 | :--- | :--- | :--- |
 | **Accuracy** | **~83%**  | ~77%  |
-| **F1-Score (Elliptical)** |0.84 [cite: 13] | 0.77  |
+| **F1-Score (Elliptical)** |0.84 | 0.77  |
 | **F1-Score (Spiral)** | 0.82 | 0.77 |
 | **F1-Score (Irregular)** | 0.12 | 0.12 |
 
